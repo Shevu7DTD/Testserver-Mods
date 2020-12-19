@@ -7049,7 +7049,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7071,7 +7071,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7093,7 +7093,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7115,7 +7115,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" /></property>
 			<drop event="Destroy" name="resourceWood" count="1,5" />
@@ -7277,7 +7277,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7299,7 +7299,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7360,7 +7360,7 @@
 			<property name="StabilitySupport" value="true" />
 			<property name="Texture" value="293" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="LootList" value="422" />			
+			<property name="LootList" value="17" />			
 			<property name="MaxDamage" value="1000"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet2.prefab"/>
@@ -7393,7 +7393,7 @@
 			<property name="StabilitySupport" value="true" />
 			<property name="Texture" value="293" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="LootList" value="422" />			
+			<property name="LootList" value="17" />			
 			<property name="MaxDamage" value="1000"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet1.prefab"/>
@@ -7449,7 +7449,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7470,7 +7470,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7491,7 +7491,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7512,7 +7512,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7533,7 +7533,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7554,7 +7554,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7577,7 +7577,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7600,7 +7600,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7623,7 +7623,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7646,7 +7646,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7732,7 +7732,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7755,7 +7755,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7778,7 +7778,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7801,7 +7801,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7887,7 +7887,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7910,7 +7910,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7933,7 +7933,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7956,7 +7956,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -7979,7 +7979,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8002,7 +8002,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8025,7 +8025,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8451,7 +8451,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8474,7 +8474,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8497,7 +8497,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8520,7 +8520,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8543,7 +8543,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8566,7 +8566,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8589,7 +8589,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8612,7 +8612,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8635,7 +8635,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8658,7 +8658,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8681,7 +8681,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="6" />
 			</property>
@@ -8704,7 +8704,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8727,7 +8727,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8750,7 +8750,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8773,7 +8773,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8796,7 +8796,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8819,7 +8819,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -8842,7 +8842,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -9624,7 +9624,7 @@
 			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet6.prefab"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -9697,7 +9697,7 @@
 			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet5.prefab"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -10140,7 +10140,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
@@ -10303,7 +10303,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -10326,7 +10326,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -10349,7 +10349,7 @@
 			<property name="HandleFace" value="Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -10370,7 +10370,7 @@
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="422" />
+			<property name="LootList" value="17" />
 			<property class="RepairItems">
 			<property name="resourceWood" value="10" />
 			</property>
@@ -12621,7 +12621,7 @@
 			<property name="Collide" value="sight,movement,melee,bullet,arrow,rocket"/>
 			<property name="IsTerrainDecoration" value="true"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
-			<property name="LootList" value="422"/>
+			<property name="LootList" value="17"/>
 			<property class="RepairItems"> <property name="resourceForgedIron" value="30"/> </property>
 			<drop event="Destroy" count="0"/>
 			<drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>			
