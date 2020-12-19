@@ -1,0 +1,11 @@
+<configs>
+	
+  <set xpath="/windows/window[@name='menuBackground']/texture/@texture">@modfolder:Textures/menu/FLEmenu.png</set>
+  
+  
+	<append xpath="/windows/window[@name='mainMenu']">		
+		<label name="FLEmenuEditionInfo" depth="9" pos="60,-470" size="250,33" text="Proof-of-Concept Release" font_size="16" color="#FFFFFF" crispness="Never" effect="outline" effect_distance="1,1" upper_case="true" justify="center" pivot="center" overflow="ShrinkContent" />
+		<label name="FLEmenuVersionInfo" depth="9" pos="60,-490" size="250,33" text="v0.0.0.3r3" font_size="16" color="#FFFFFF" crispness="Never" effect="outline" effect_distance="1,1" upper_case="false" justify="center" pivot="center" overflow="ShrinkContent" />			
+	</append>
+
+</configs>
