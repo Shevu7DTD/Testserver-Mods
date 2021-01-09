@@ -1,0 +1,46 @@
+<configs>
+
+<append xpath="/items">
+<item name="vehicleHindPlaceable">
+<property name="Extends" value="vehicleMinibikePlaceable"/>
+<property name="EconomicValue" value="30000"/>
+<property name="CustomIcon" value="Hind"/>
+<property name="DescriptionKey" value="vehicleHindplaceableDesc"/>
+<property name="Meshfile" value="#@modfolder:Resources/ACChopper1.unity3d?HindChopper.prefab"/>
+<property name="UnlockedBy" value="vehicleHindSchematic"/>
+<property name="Stacknumber" value="1"/>
+	<property class="Action1">
+	<property name="Class" value="SpawnVehicle"/>
+	<property name="Vehicle" value="vehicleHind"/>
+</property>
+	<effect_group name="vehicleHindPlaceable" tiered="false">
+	<passive_effect name="ModSlots" operation="base_set" value="1"/>
+	<passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+	<passive_effect name="DegradationMax" operation="base_set" value="6500"/>
+</effect_group>
+</item>
+<item name="vehicleHindSchematic">
+<property name="Extends" value="schematicNoQualityRecipeMaster"/>
+<property name="EconomicValue" value="400"/>
+<property name="CreativeMode" value="Player"/>
+<property name="CustomIcon" value="Hind"/>
+<property name="Unlocks" value="vehicleHind"/>
+	<effect_group tiered="false">
+	<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="vehicleHind" operation="set" value="1"/>
+	<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+</effect_group>
+</item>
+<item name="vehicleHindchassis">
+<property name="Extends" value="vehicleWheels"/>
+<property name="CustomIcon" value="HindChassis"/>
+<property name="DescriptionKey" value="vehicleHindchassisDesc"/>
+<property name="EconomicValue" value="20000"/>
+</item>
+<item name="vehicleHindaccessories">
+<property name="Extends" value="vehicleWheels"/>
+<property name="CustomIcon" value="Rotorblades"/>
+<property name="DescriptionKey" value="vehicleHindaccessoriesDesc"/>
+<property name="EconomicValue" value="20000"/>
+</item>
+</append>
+</configs>

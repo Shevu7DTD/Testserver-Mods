@@ -1,0 +1,15 @@
+Vehicle Name: Hind Helicopter
+
+3D Model Artists Names: irs1182@Scetchfab.com,Ashley Aslett@Scetchfab.com
+
+
+
+All Models in this modlet are subject to creative commons licence.
+https://creativecommons.org/licenses/by/4.0/
+
+
+No Models have been altered from the 'original creator' they are set up with appropriate lighting shader in unity for 7 Days to Die game.
+
+(ACTINIUMTIGER  and Ragsy)
+Thank You To All Artists who post Free Assets for Modders to use in games.
+Much appreciated!!!!
