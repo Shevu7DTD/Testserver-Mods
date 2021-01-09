@@ -1,7 +1,0 @@
-<config>
-	<remove xpath="/blocks/block[@name='treeMasterGrowing']/property[@name='PlantGrowing.GrowthRate']"/>
-	<set xpath="/blocks/block[@name='treeMasterGrowing']/property[@name='PlantGrowing.Next']/@value">treePlantedOak1m</set>
-	<set xpath="/blocks/block[@name='treePlantedOak1m']/property[@name='PlantGrowing.Next']/@value">treePlantedOak1m</set>
-	<set xpath="/blocks/block[@name='treePlantedMountainPine1m']/property[@name='PlantGrowing.Next']/@value">treePlantedMountainPine1m</set>
-	<set xpath="/blocks/block[@name='treePlantedWinterPine1m']/property[@name='PlantGrowing.Next']/@value">treePlantedWinterPine1m</set>
-</config>
