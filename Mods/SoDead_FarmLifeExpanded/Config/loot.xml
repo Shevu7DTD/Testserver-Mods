@@ -229,11 +229,11 @@
 	<append xpath="/lootcontainers">
 		<lootcontainer id="420" size="10,9" sound_open="UseActions/open_cupboard" sound_close="UseActions/close_cupboard" >
 			</lootcontainer>			
-		<lootcontainer id="421" size="10,9" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" >
+		<lootcontainer id="421" size="12,9" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" >
 			</lootcontainer>
-		<lootcontainer id="422" size="10,9" sound_open="UseActions/open_dumpster" sound_close="UseActions/close_dumpster" >
+		<lootcontainer id="422" size="12,9" sound_open="UseActions/open_dumpster" sound_close="UseActions/close_dumpster" >
 			</lootcontainer>
-		<lootcontainer id="423" size="10,9" sound_open="UseActions/gatoropen" sound_close="UseActions/gatorclose" >
+		<lootcontainer id="423" size="12,9" sound_open="UseActions/gatoropen" sound_close="UseActions/gatorclose" >
 			</lootcontainer>			
 	</append>	
 </configs>

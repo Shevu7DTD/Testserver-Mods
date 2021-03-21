@@ -19866,19 +19866,10 @@
 				<property name="Use_time" value="..."/>
 				<property name="Sound_start" value="player_drinking"/>
 				<property name="Create_item" value="drinkJarEmpty"/></property>
-			<<effect_group tiered="false">
-                <requirement name="HasBuff" buff="buffIsOnFire"/>
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffExtinguishFire"/>
-            </effect_group>
-            <effect_group tiered="false">
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Sugar Rush"/>
-            </effect_group>
-            <effect_group tiered="false">
-                <requirement name="NotHasBuff" buff="buffIsOnFire"/>
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$waterAmountAdd" operation="add" value="20"/>
-                <display_value name="staminaAmount" value="5"/>
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
-            </effect_group>
+			<effect_group tiered="false">
+				<requirement name="HasBuff" buff="buffIsOnFire"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffExtinguishFire"/>
+			</effect_group>
 		</item>
 
 		<item name="BeefCake">
